@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Nombre - Consultora Empresarial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff6600;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff6600;
+        }
+        h2 {
+            color: #666666;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tu Nombre</h1>
+        <p>Licenciada en Mercadotecnia | Especialista en Sistemas POS</p>
+    </header>
+    <div class="container">
+        <section class="section">
+            <h2>Sobre Mí</h2>
+            <p>Con amplia experiencia en ventas y negociación, me dedico a implementar sistemas POS para pequeñas y medianas empresas, ayudándolas a optimizar sus procesos y aumentar su eficiencia.</p>
+        </section>
+        <section class="section">
+            <h2>Servicios</h2>
+            <ul>
+                <li>Tips de Emprendimiento</li>
+                <li>Asesoría para Desarrollo de Marcas</li>
+                <li>Consultoría Empresarial</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Tips de Emprendimiento</h2>
+            <p>Encuentra aquí consejos prácticos para iniciar y gestionar tu propio negocio, desde la planificación hasta la ejecución.</p>
+        </section>
+        <section class="section">
+            <h2>Asesoría para Desarrollo de Marcas</h2>
+            <p>Te ayudo a crear una identidad de marca sólida y coherente, alineada con tus objetivos de negocio y atractiva para tu público objetivo.</p>
+        </section>
+        <section class="section">
+            <h2>Consultoría Empresarial</h2>
+            <p>Ofrezco servicios de consultoría para mejorar la gestión y el rendimiento de tu empresa, con soluciones personalizadas para tus necesidades específicas.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Tu Nombre. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
